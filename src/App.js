@@ -13,7 +13,6 @@ function App() {
         platform={Data[0].platform}
         content={Data[0].content}
       />
-
       <Card
         // imgsrc={Data[0].imgSource}
         title={Data[1].title}
