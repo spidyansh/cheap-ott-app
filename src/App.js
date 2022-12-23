@@ -20,6 +20,13 @@ function App() {
         content={Data[1].content}
       />
 
+<Card
+        // imgsrc={Data[0].imgSource}
+        title={Data[2].title}
+        platform={Data[2].platform}
+        content={Data[2].content}
+      />
+
 
     </>
   );
